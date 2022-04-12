@@ -1,0 +1,6 @@
+First, add normalize.css
+Then, add main.css from typescale. Here, I generally like to use Spectral font for headings and Roboto font for paragraphs.
+Add a default padding of 2 rem to the body selector in main.css
+Create CSS variables. Take the help of HappyHues for color contrasts.
+Design the navbar and the footer first.
+Always use min-height to set the content between the navbar and the footer.
